@@ -1,0 +1,15 @@
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E004_Div\bin\Debug\net6.0\E004_Div.exe
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E004_Div\bin\Debug\net6.0\E004_Div.deps.json
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E004_Div\bin\Debug\net6.0\E004_Div.runtimeconfig.json
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E004_Div\bin\Debug\net6.0\E004_Div.dll
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E004_Div\bin\Debug\net6.0\E004_Div.pdb
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E004_Div\obj\Debug\net6.0\E004_Div.csproj.AssemblyReference.cache
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E004_Div\obj\Debug\net6.0\E004_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E004_Div\obj\Debug\net6.0\E004_Div.AssemblyInfoInputs.cache
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E004_Div\obj\Debug\net6.0\E004_Div.AssemblyInfo.cs
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E004_Div\obj\Debug\net6.0\E004_Div.csproj.CoreCompileInputs.cache
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E004_Div\obj\Debug\net6.0\E004_Div.dll
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E004_Div\obj\Debug\net6.0\refint\E004_Div.dll
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E004_Div\obj\Debug\net6.0\E004_Div.pdb
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E004_Div\obj\Debug\net6.0\E004_Div.genruntimeconfig.cache
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E004_Div\obj\Debug\net6.0\ref\E004_Div.dll

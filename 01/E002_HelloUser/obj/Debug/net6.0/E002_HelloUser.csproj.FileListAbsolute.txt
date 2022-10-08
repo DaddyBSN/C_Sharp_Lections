@@ -1,0 +1,15 @@
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E002_HelloUser\bin\Debug\net6.0\E002_HelloUser.exe
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E002_HelloUser\bin\Debug\net6.0\E002_HelloUser.deps.json
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E002_HelloUser\bin\Debug\net6.0\E002_HelloUser.runtimeconfig.json
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E002_HelloUser\bin\Debug\net6.0\E002_HelloUser.dll
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E002_HelloUser\bin\Debug\net6.0\E002_HelloUser.pdb
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E002_HelloUser\obj\Debug\net6.0\E002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E002_HelloUser\obj\Debug\net6.0\E002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E002_HelloUser\obj\Debug\net6.0\E002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E002_HelloUser\obj\Debug\net6.0\E002_HelloUser.AssemblyInfo.cs
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E002_HelloUser\obj\Debug\net6.0\E002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E002_HelloUser\obj\Debug\net6.0\E002_HelloUser.dll
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E002_HelloUser\obj\Debug\net6.0\refint\E002_HelloUser.dll
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E002_HelloUser\obj\Debug\net6.0\E002_HelloUser.pdb
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E002_HelloUser\obj\Debug\net6.0\E002_HelloUser.genruntimeconfig.cache
+C:\Users\sergo\OneDrive\Рабочий стол\Долгий Путь\GIT\C#\Lections\01\E002_HelloUser\obj\Debug\net6.0\ref\E002_HelloUser.dll
