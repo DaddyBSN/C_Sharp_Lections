@@ -1,11 +1,11 @@
 ﻿int[] array = {1, 12, 31, 18, 15, 16, 17, 18};
 
-int n = array.Length;
+int lenght = array.Length;
 int search = 18;
 
 int index = 0;
 
-while(index < n)
+while(index < lenght)
 {
     if(array[index] == search)
     {

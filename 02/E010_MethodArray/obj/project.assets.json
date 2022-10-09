@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\Examples\\Example010_MethodArray\\Example010_MethodArray.csproj",
+      "projectUniqueName": "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\C#\\Lections\\02\\E010_MethodArray\\Example010_MethodArray.csproj",
       "projectName": "Example010_MethodArray",
-      "projectPath": "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\Examples\\Example010_MethodArray\\Example010_MethodArray.csproj",
+      "projectPath": "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\C#\\Lections\\02\\E010_MethodArray\\Example010_MethodArray.csproj",
       "packagesPath": "C:\\Users\\sergo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\Examples\\Example010_MethodArray\\obj\\",
+      "outputPath": "C:\\Users\\sergo\\OneDrive\\Рабочий стол\\Долгий Путь\\GIT\\C#\\Lections\\02\\E010_MethodArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sergo\\AppData\\Roaming\\NuGet\\NuGet.Config"
